@@ -1,6 +1,6 @@
 #mylife.github.io
 
-#Portafolio Adaptable (Responsive) con Bootstrap 5
+Portafolio Adaptable (Responsive) con Bootstrap 5
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive").
 
@@ -15,19 +15,19 @@ Primera parte de la página web
 
 Experiencia:
 
-Experiencia
+
 
 Proyectos:
 
-Proyectos
+
 
 Testimonios:
 
-Testimonios
+
 
 Contacto:
 
-Contacto
+
 
 Tecnologías
 Esta página web fue creada con:
