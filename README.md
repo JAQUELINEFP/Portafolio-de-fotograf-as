@@ -10,7 +10,7 @@ También incluye imágenes alternativas en la carpeta imagenes en caso de que se
 
 Capturas de pantalla:
 Primera parte de la página web:
-
+![Image text](https://github.com/JAQUELINEFP/mylife.github.io/blob/main/imagenes/readme/a1.jpeg)
 Primera parte de la página web
 
 Experiencia:
