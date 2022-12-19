@@ -1,6 +1,5 @@
-# mylife.github.io
+#Portafolio de fotografías.
 
-Portafolio de fotografías.
 ¡Things about me!
 Este es un proyecto personal, es una página web adaptable a dispositivos de distintos tamaños, es decir, responsive.
 El propósito de esta página es mostrar algunas cosas sobre mí, algunos apartados sobre mis gustos y aficiones, incluye imágenes editadas para su utilización en esta página web, así como fotografías del autor Jack que su principal atractivo visual.
