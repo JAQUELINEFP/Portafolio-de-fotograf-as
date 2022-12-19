@@ -10,13 +10,21 @@ También puede servir como plantilla para los usuarios que busquen realizar una 
 Capturas de pantalla:
 
 Primera parte de la página web:
+
  ![Image text](https://github.com/JAQUELINEFP/mylife.github.io/blob/main/imagenes/readme/a1.jpeg)
+ 
 Información personal:
+
  ![Image text](https://github.com/JAQUELINEFP/mylife.github.io/blob/main/imagenes/readme/b2.jpeg)
+ 
 Aficiones y gustos:
+
  ![Image text](https://github.com/JAQUELINEFP/mylife.github.io/blob/main/imagenes/readme/c3.jpeg)
+ 
  ![Image text](https://github.com/JAQUELINEFP/mylife.github.io/blob/main/imagenes/readme/d4.jpeg)
+ 
 Contacto:
+
  ![Image text](https://github.com/JAQUELINEFP/mylife.github.io/blob/main/imagenes/readme/e5.jpeg)
  
  
