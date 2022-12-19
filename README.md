@@ -1,6 +1,6 @@
 
-Portafolio de fotografías.
-
+Portafolio de fotografías
+________________________________________________________________________________________________________________________________________________
 ¡Things about me!
 
 Este es un proyecto personal, es una página web adaptable a dispositivos de distintos tamaños, es decir, responsive.
@@ -19,8 +19,11 @@ Aficiones y gustos:
 Contacto:
  ![Image text](https://github.com/JAQUELINEFP/mylife.github.io/blob/main/imagenes/readme/e5.jpeg)
  
+ 
+ 
+________________________________________________________________________________________________________________________________________________
 Tecnologías
-________________________________________________________________________
+________________________________________________________________________________________________________________________________________________
 Esta página web fue creada con:
 •	HTML
 •	CSS
